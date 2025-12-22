@@ -1,0 +1,61 @@
+# TheFatRat – Never Be Alone
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.80] You, you're gonna break my heart
+[00:13.73] You're gonna tear it apart
+[00:16.64] No matter what you do
+[00:19.76] I'll still be there for you
+[00:23.09] And when you call my name
+[00:26.18] I won't be far away
+[00:29.00] No matter where you go
+[00:32.29] You'll never be alone
+[00:42.79] 
+[00:34.26] Be alone, be alone
+[00:35.54] No, you'll never be alone, be alone, be alone
+[00:39.09] No, you'll never be alone, be alone, be alone
+[00:42.09] No, you'll never be alone, be alone, be alone
+[00:45.13] Yeah, you'll never be alone, be alone, be alone
+[00:48.10] No, you'll never be alone, be alone, be alone
+[00:51.46] No, you'll never be alone, be alone, be alone
+[00:54.49] No, you'll never be alone, be alone
+[01:11.99] 
+[00:58.77] Oh! (Be alone)
+[01:00.69] No, you'll never be alone, be alone
+[01:03.84] No, you'll never be alone, be alone
+[01:06.81] No, you'll never be alone
+[01:19.31] 
+[01:11.51] Be alone
+[01:13.09] No, you'll never be alone, be alone
+[01:16.22] No, you'll never be alone, be alone
+[01:19.12] No, you'll never be alone
+[01:31.62] 
+[02:10.30] You, you're gonna break my heart
+[02:15.13] You're gonna tear it apart
+[02:18.05] No matter what you do
+[02:21.10] I'll still be there for you
+[02:24.32] And when you call my name
+[02:27.32] I won't be far away
+[02:30.55] No matter where you go
+[02:33.52] You'll never be alone
+[02:44.02] 
+[02:35.67] Be alone, be alone
+[02:37.30] No, you'll never be alone, be alone, be alone
+[02:40.39] No, you'll never be alone, be alone, be alone
+[02:43.25] No, you'll never be alone, be alone, be alone
+[02:46.48] Yeah, you'll never be alone, be alone, be alone
+[02:49.69] No, you'll never be alone, be alone, be alone
+[02:52.75] No, you'll never be alone, be alone, be alone
+[02:55.84] No, you'll never be alone, be alone
+[03:13.34] 
+[03:00.14] Oh! (Be alone)
+[03:02.04] No, you'll never be alone, be alone
+[03:05.24] No, you'll never be alone, be alone
+[03:08.28] No, you'll never be alone
+[03:20.78] 
+[03:12.94] Be alone
+[03:14.21] No, you'll never be alone, be alone
+[03:17.37] No, you'll never be alone, be alone
+[03:20.42] No, you'll never be alone
+```
