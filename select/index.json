@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Never Be Alone",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-22T07:15:47.117357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You'll Never Be Alone",
+      "artist": "The Books",
+      "has_synced": true,
+      "path": "select/01_You'll_Never_Be_Alone_The_Books.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "Justice vs. Simian",
+      "has_synced": true,
+      "path": "select/02_Never_Be_Alone_Justice_vs._Simian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You'll Never Be Alone",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/03_You'll_Never_Be_Alone_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You'll Never Be Alone - Radio Edit",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/04_You'll_Never_Be_Alone_-_Radio_Edit_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/05_Never_Be_Alone_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Be Alone - Michael Jan Remix",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/06_Never_Be_Alone_-_Michael_Jan_Remix_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Be Alone (Michael Jan Remix)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/07_Never_Be_Alone_(Michael_Jan_Remix)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Be Alone (feat. Aloe Blacc)",
+      "artist": "David Guetta feat. MORTEN & Aloe Blacc",
+      "has_synced": true,
+      "path": "select/08_Never_Be_Alone_(feat._Aloe_Blacc)_David_Guetta_feat._MORTEN_&_Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "David Guetta & MORTEN feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/09_Never_Be_Alone_David_Guetta_&_MORTEN_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Be Alone (feat. Aloe Blacc)",
+      "artist": "David Guetta;Morten;Aloe Blacc",
+      "has_synced": true,
+      "path": "select/10_Never_Be_Alone_(feat._Aloe_Blacc)_David_Guetta;Morten;Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Youll Never Be Alone",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/11_Youll_Never_Be_Alone_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "May You Never Be Alone (#1)",
+      "artist": "Hank Williams",
+      "has_synced": false,
+      "path": "select/12_May_You_Never_Be_Alone_(_1)_Hank_Williams.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/13_Never_Be_Alone_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "Justice Vs. Simian",
+      "has_synced": true,
+      "path": "select/14_Never_Be_Alone_Justice_Vs._Simian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Be Alone",
+      "artist": "TheFatRat",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Be_Alone_TheFatRat.txt"
+    }
+  ]
+}
